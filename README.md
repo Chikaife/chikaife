@@ -4,8 +4,8 @@ I am a Computer Science graduate focused on software engineering, web applicatio
 
 ## 💻 Technical Skills
 
-*   **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript, SQL
-*   **Frameworks & Libraries:** React, Bootstrap, Tailwind
+*   **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+*   **Frameworks & Libraries:** React, Tailwind
 *   **Tools & Methodologies:** Git/GitHub, Chrome DevTools, Functional Testing, Bug Tracking, Responsive Web Design
 
 ## 🚀 Experience & Highlights
