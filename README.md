@@ -1,6 +1,6 @@
 # Hi, I'm Anyim Chidi 👋
 
-I am a Computer Science graduate focused on software engineering, web application development, and software quality systems. My background bridges frontend engineering, system functionality testing, and technical team leadership. I am currently preparing for graduate studies (MMath/MSc) focused on empirical software engineering, distributed systems, and software maintenance.
+I am a Computer Science graduate focused on software engineering, web application development, and software quality systems. My background bridges frontend engineering, system functionality testing, and technical team leadership. I am focused on empirical software engineering, distributed systems, and software maintenance.
 
 ## 💻 Technical Skills
 
